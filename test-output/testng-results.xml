@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-17T17:05:36 AEST" name="Default suite" finished-at="2022-06-17T17:05:39 AEST" duration-ms="2913">
+    <groups>
+    </groups>
+    <test started-at="2022-06-17T17:05:36 AEST" name="Default test" finished-at="2022-06-17T17:05:39 AEST" duration-ms="2913">
+      <class name="SSLCheck">
+        <test-method signature="test1()[pri:0, instance:SSLCheck@32b260fa]" started-at="2022-06-17T17:05:36 AEST" name="test1" finished-at="2022-06-17T17:05:39 AEST" duration-ms="2877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- SSLCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
